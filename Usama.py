@@ -7,7 +7,7 @@ from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score as silhouete_score
 
 #2 files for the analysis
-# file is about the population
+# file is about the population 
 file1 = 'total population.csv'
 # this file is about the GDP
 file2 = "GDP.csv"
